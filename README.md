@@ -1,7 +1,7 @@
 <br> 👋 Hi, I’m @ZaineJJ I own a small <a href="http://bit.ly/Simplyeverythingcrypto" target="_blank">youtube channel</a> about cryptocurrency 
 <br> 📫 Join My <a href="https://discord.gg/tuuFQDPcga" target="_blank">Discord</a> / <a href="https://t.me/simplyeverythingNews" target="_blank">Telegram!</a>
 <br> Websites I created to warn / for fun
-<br> To warn BSC Users about airdrop scams... Help me share this <a href="https://airdropscams.com" target="_blank">site</a>
+<br> <a href="https://airdropscams.com" target="_blank">Site 1</a> : To warn BSC Users about airdrop scams... Help me share this <a href="https://airdropscams.com" target="_blank">site</a>
 <br>
 <h2>Support By Using the links below!</h2>
 <br> <b>Exchanges To Trade / Leverage / Options</b>
