@@ -32,10 +32,10 @@
 <br>Ledger : http://bit.ly/BuyLedgerNanoNow
 <br>Prokey : https://bit.ly/BuyProkey
 <hr>
-<br> <b>Helium Mining<b/>
+<br> <b>Helium Mining</b>
 <br>Linxdot Use <b>"SECrypto"</b> 3% Off : https://bit.ly/linxdot
 <hr>
-<br> <b> Stock Exchanges <b/>
+<br> <b> Stock Exchanges </b>
 <br> moomoo app [Free USA Region Stocks] : https://bit.ly/moomooFreeStockUSA
 <br> moomoo app [Free SG Region Stocks]  : https://bit.ly/MooMooFreeStock
 <br> Tigerbroker [Free SG Region Stocks] : https://bit.ly/TigerBrokerFreeStock
