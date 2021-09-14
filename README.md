@@ -30,6 +30,7 @@
 <br><b>Grab Your Hardware Wallet</b>
 <br>Trezor : http://bit.ly/Get-Trezor
 <br>Ledger : http://bit.ly/BuyLedgerNanoNow
+<br>KeepKey : https://bit.ly/BuyKeepKeyToday
 <br>Prokey : https://bit.ly/BuyProkey
 <hr>
 <br> <b>Helium Mining</b>
