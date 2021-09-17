@@ -22,7 +22,7 @@
 <br>Deribit [Options]     : http://bit.ly/SignUpDeribit
 <hr>
 <br><b>Passive Income Platforms Crypto In More Out!</b>
-<br>HaruInvest 0.2% Bonus : https://bit.ly/HaruInvest
+<br>HaruInvest 0.2% Bonus : https://app.haruinvest.com/signup?r=SimplyEverythingCrypto
 <br>Holdnaut $20 To Grab  : https://bit.ly/Hodlnaut
 <br>Nexo $10 To Grab      : https://bit.ly/SignUpNexo
 <br>Celsius $50 To Grab   : http://bit.ly/CelsiusFreeMoney
