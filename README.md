@@ -11,8 +11,9 @@
 <br>CryptoCom App[Free$25]   : https://bit.ly/GetYourCryptoCard + https://bit.ly/CDCExchange
 <br>CoinHako [SG/MY]         : http://bit.ly/CoinHakoSignUp
 <br>Tokenize [SG]            : https://bit.ly/TokenizeExchange
-<br>Gemini [Regulated SG]    : https://bit.ly/Gemini-Exchange
+<br>Gemini [SG]              : https://bit.ly/Gemini-Exchange
 <br> <b>Crypto To Crypto</b>
+<br>Okcoin  [Get $50]        : https://bit.ly/TradeOnOkcoin
 <br>Okex  [10% Rebates]      : https://bit.ly/Okex10Rebate
 <br>Huobi [Get $170]         : https://bit.ly/TradeWithHuobi
 <br>Kucoin [TradingBot]      : http://bit.ly/SignUpKucoin
@@ -35,7 +36,7 @@
 <hr>
 <br><b>Grab Your Hardware Wallet</b>
 <br>Trezor : http://bit.ly/Get-Trezor
-<br>Ledger : http://bit.ly/BuyLedgerNanoNow
+<br>Ledger : https://bit.ly/BuyLedgerToday
 <br>KeepKey : https://bit.ly/BuyKeepKeyToday
 <br>Prokey : https://bit.ly/BuyProkey
 <hr>
