@@ -38,10 +38,15 @@
 <br>Trezor : http://bit.ly/Get-Trezor
 <br>Ledger : https://bit.ly/BuyLedgerToday
 <br>KeepKey : https://bit.ly/BuyKeepKeyToday
-<br>Prokey : https://bit.ly/BuyProkey
 <hr>
 <br> <b>Helium Mining</b>
 <br>Linxdot Use <b>"SECrypto"</b> 3% Off : https://bit.ly/linxdot
+<br>Deeper Network HNT                   : https://bit.ly/DeeperHNTMiner
+<br> <b>Deeper Connect Mining</b>
+<br>Deeper Connect Indiegogo Packages    : https://deeper-connect-pico-1.kckb.st/secrypto
+<br>Deeper Connect Mini                  : https://bit.ly/DeeperConnectMini
+<br>Deeper Connect 1x Pico               : https://www.indiegogo.com/projects/2724507/x/27833609?secret_perk_token=f43daa84
+<br>Deeper Connect 3x Pico               : https://www.indiegogo.com/projects/2724507/x/27833609?secret_perk_token=2e465380
 <hr>
 <br> <b> Stock Exchanges </b>
 <br> moomoo app [Free USA Region Stocks] : https://bit.ly/moomooFreeStockUSA
