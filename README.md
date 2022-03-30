@@ -39,6 +39,10 @@
 <br>Ledger : https://bit.ly/BuyLedgerToday
 <br>KeepKey : https://bit.ly/BuyKeepKeyToday
 <hr>
+<br> <b>Run Your Own Crypto Nodes! Own your data!</b>
+<br>Avado                                : https://bit.ly/BuyAvado
+<br>DAppNode Use "SECrypto" For 35EUR Off: https://shop.dappnode.io/
+<hr>
 <br> <b>Helium Mining</b>
 <br>Linxdot Use <b>"SECrypto"</b> 3% Off : https://bit.ly/linxdot
 <br>Deeper Network HNT                   : https://bit.ly/DeeperHNTMiner
