@@ -5,6 +5,7 @@
 <br> <a href="https://airdropscams.com" target="_blank">Site 1</a> : To warn BSC Users about airdrop scams... Help me share this <a href="https://airdropscams.com" target="_blank">site</a>
 <br>
 <h2>Support By Using the links below!</h2>
+<br> <b> Portfolio Tracker : https://bit.ly/SignUpCoinMarketCap </b>
 <br> <b>Exchanges To Trade / Leverage / Options</b>
 <br> <b>Direct Fiat In Or Out</b>
 <br>FTX [Crypto&Stocks]      : https://bit.ly/SignUpFTX
@@ -19,10 +20,10 @@
 <br>Kucoin [TradingBot]      : http://bit.ly/SignUpKucoin
 <br>CoinEx                   : https://bit.ly/TradeOnCoinEx
 <br>Binance Global[5%Off]    : https://bit.ly/BinanceRebate
-<br>Bybit [Grab $600]        : http://bit.ly/SignUpByBit
-<br>Phemex [Grab $100]       : https://bit.ly/SignUpPhemex
-<br>BitMex [10% off]         : http://bit.ly/BitMexNow
-<br>Deribit [Options]        : http://bit.ly/SignUpDeribit
+<br>Bybit [Grab $600] Leverage Up To 100x : http://bit.ly/SignUpByBit
+<br>Phemex [Grab $100] Leverage Up To 100x: https://bit.ly/SignUpPhemex
+<br>BitMex [10% off] Leverage Up To 100x  : http://bit.ly/BitMexNow
+<br>Deribit [Options] Leverage Up To 100x : http://bit.ly/SignUpDeribit
 <br> <b> DEX </b>
 <br>ShapeShift [ETH Network] : https://bit.ly/SignUpShapeShift
 <br>1Inch [ETH/BSC/Matic]    : https://bit.ly/1inch_Exchange
@@ -33,7 +34,6 @@
 <br>Holdnaut $20 To Grab     : https://bit.ly/Hodlnaut
 <br>Nexo $10 To Grab         : https://bit.ly/SignUpNexo
 <br>Celsius $50 To Grab      : http://bit.ly/CelsiusFreeMoney
-<br>BlockFi Up To $250       : https://bit.ly/BlockfiFree250
 <hr>
 <br><b>Grab Your Hardware Wallet</b>
 <br>Trezor : http://bit.ly/Get-Trezor
@@ -46,14 +46,16 @@
 <hr>
 <br> <b>Helium Mining</b>
 <br>Linxdot Use <b>"SECrypto"</b> 3% Off : https://bit.ly/linxdot
-<br>Deeper Network HNT                   : https://bit.ly/DeeperHNTMiner
+<br>Cotx Use <b>"SECrypto"</b> 3% Off    : https://bit.ly/HeliumCOTX
 <br> <b>Deeper Connect Mining</b>
-<br>Deeper Connect Indiegogo Packages    : https://deeper-connect-pico-1.kckb.st/secrypto
-<br>Deeper Connect Mini                  : https://bit.ly/DeeperConnectMini
-<br>Deeper Connect 1x Pico               : https://www.indiegogo.com/projects/2724507/x/27833609?secret_perk_token=f43daa84
-<br>Deeper Connect 3x Pico               : https://www.indiegogo.com/projects/2724507/x/27833609?secret_perk_token=2e465380
+<br>Deeper Connect Store    : https://bit.ly/BuyDeeperMiner
 <hr>
+<br> <b>Drive & Earn?</b>
+<br>HiveMapper <b>"SECrypto"</b> 10% Off : https://bit.ly/HiveMapper
 <br> <b> Stock Exchanges </b>
 <br> moomoo app [Free USA Region Stocks] : https://bit.ly/moomooFreeStockUSA
 <br> moomoo app [Free SG Region Stocks]  : https://bit.ly/MooMooFreeStock
 <br> Tigerbroker [Free SG Region Stocks] : https://bit.ly/TigerBrokerFreeStock
+<br> WeBull [Free SG Region Stocks]      : https://bit.ly/WeBullSingapore
+
+
