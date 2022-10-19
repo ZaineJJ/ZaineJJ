@@ -8,6 +8,7 @@ https://amboss.space/node/023ad453e0ab3767112427b654247bbdd337864532d38967485ab6
 <br>
 <h2>Support By Using the links below!</h2>
 <br> <b> Portfolio Tracker : https://bit.ly/SignUpCoinMarketCap </b>
+<br>
 <br> <b>Exchanges To Trade / Leverage / Options</b>
 <br> <b>Direct Fiat In Or Out</b>
 <br>FTX [Crypto&Stocks]      : https://bit.ly/SignUpFTX "Personal Favorite"
@@ -53,6 +54,7 @@ https://amboss.space/node/023ad453e0ab3767112427b654247bbdd337864532d38967485ab6
 <hr>
 <br> <b>Drive & Earn?</b>
 <br>HiveMapper <b>"SECrypto"</b> 10% Off : https://bit.ly/HiveMapper
+<hr>
 <br> <b> Stock Exchanges </b>
 <br> moomoo app [Free USA Region Stocks] : https://bit.ly/moomooFreeStockUSA
 <br> moomoo app [Free SG Region Stocks]  : https://bit.ly/MooMooFreeStock
