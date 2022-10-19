@@ -31,9 +31,7 @@
 <br><b>Passive Income Platforms Crypto In More Out!</b>
 <br>HaruInvest 0.2% Bonus    : https://app.haruinvest.com/signup?r=SimplyEverythingCrypto
 <br>Midas Investment         : https://bit.ly/MidasInvestment
-<br>Holdnaut $20 To Grab     : https://bit.ly/Hodlnaut
 <br>Nexo $10 To Grab         : https://bit.ly/SignUpNexo
-<br>Celsius $50 To Grab      : http://bit.ly/CelsiusFreeMoney
 <hr>
 <br><b>Grab Your Hardware Wallet</b>
 <br>Trezor : http://bit.ly/Get-Trezor
