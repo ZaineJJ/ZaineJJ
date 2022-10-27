@@ -38,6 +38,7 @@ https://amboss.space/node/023ad453e0ab3767112427b654247bbdd337864532d38967485ab6
 <hr>
 <br><b>Grab Your Hardware Wallet</b>
 <br>Ledger : https://bit.ly/BuyLedgerToday "Owned all it's model"
+<br>CoolWallet :https://bit.ly/BuyCoolwallet
 <br>Trezor : http://bit.ly/Get-Trezor
 <br>KeepKey : https://bit.ly/BuyKeepKeyToday
 <hr>
