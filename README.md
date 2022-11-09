@@ -11,29 +11,25 @@ https://amboss.space/node/023ad453e0ab3767112427b654247bbdd337864532d38967485ab6
 <br>
 <br> <b>Exchanges To Trade / Leverage / Options</b>
 <br> <b>Direct Fiat In Or Out</b>
-<br>FTX [Crypto&Stocks]      : https://bit.ly/SignUpFTX "Personal Favorite"
+<br>Binance Global[5%Off]    : https://bit.ly/BinanceRebate
 <br>CryptoCom App[Free$25]   : https://bit.ly/GetYourCryptoCard + https://bit.ly/CDCExchange
 <br>CoinHako [SG/MY]         : http://bit.ly/CoinHakoSignUp
 <br>Tokenize [SG]            : https://bit.ly/TokenizeExchange
 <br>Gemini [SG]              : https://bit.ly/Gemini-Exchange
-<hr>
-<br> <b>Crypto To Crypto</b>
 <br>Okcoin  [Get $50]        : https://bit.ly/TradeOnOkcoin
 <br>Okex  [10% Rebates]      : https://bit.ly/Okex10Rebate
 <br>Huobi [Get $170]         : https://bit.ly/TradeWithHuobi
 <br>Kucoin [TradingBot]      : http://bit.ly/SignUpKucoin
 <br>CoinEx                   : https://bit.ly/TradeOnCoinEx
-<br>Binance Global[5%Off]    : https://bit.ly/BinanceRebate
-<hr>
-<br> <b>Crypto Leveage + Spot</b>
 <br>Bybit [Grab $600] Leverage Up To 100x : http://bit.ly/SignUpByBit "Use for leverage / spot reliable no overloads"
 <br>Phemex [Grab $100] Leverage Up To 100x: https://bit.ly/SignUpPhemex
 <br>BitMex [10% off] Leverage Up To 100x  : http://bit.ly/BitMexNow
 <br>Deribit [Options] Leverage Up To 100x : http://bit.ly/SignUpDeribit
 <hr>
 <br><b>Passive Income Platforms Crypto In More Out!</b>
-<br>HaruInvest Get $50 BTC   : https://app.haruinvest.com/signup?r=SimplyEverythingCrypto "Using this to generate passive income"
+<br>HaruInvest Up to 25% APY   : https://app.haruinvest.com/signup?r=SimplyEverythingCrypto "Using this to generate passive income"
 <br>Midas Investment         : https://bit.ly/MidasInvestment
+<br>Flyn Finance Up To 42.11%APY            : https://bit.ly/FlyntFinance
 <br>Nexo $10 To Grab         : https://bit.ly/SignUpNexo
 <hr>
 <br><b>Grab Your Hardware Wallet</b>
