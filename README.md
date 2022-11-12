@@ -12,15 +12,10 @@ https://amboss.space/node/023ad453e0ab3767112427b654247bbdd337864532d38967485ab6
 <br> <b>Exchanges To Trade / Leverage / Options</b>
 <br> <b>Direct Fiat In Or Out</b>
 <br>Binance Global[5%Off]    : https://bit.ly/BinanceRebate
-<br>CryptoCom App[Free$25]   : https://bit.ly/GetYourCryptoCard + https://bit.ly/CDCExchange
 <br>CoinHako [SG/MY]         : http://bit.ly/CoinHakoSignUp
-<br>Tokenize [SG]            : https://bit.ly/TokenizeExchange
-<br>Gemini [SG]              : https://bit.ly/Gemini-Exchange
 <br>Okcoin  [Get $50]        : https://bit.ly/TradeOnOkcoin
 <br>Okex  [10% Rebates]      : https://bit.ly/Okex10Rebate
-<br>Huobi [Get $170]         : https://bit.ly/TradeWithHuobi
 <br>Kucoin [TradingBot]      : http://bit.ly/SignUpKucoin
-<br>CoinEx                   : https://bit.ly/TradeOnCoinEx
 <br>Bybit [Grab $600] Leverage Up To 100x : http://bit.ly/SignUpByBit "Use for leverage / spot reliable no overloads"
 <br>Phemex [Grab $100] Leverage Up To 100x: https://bit.ly/SignUpPhemex
 <br>BitMex [10% off] Leverage Up To 100x  : http://bit.ly/BitMexNow
