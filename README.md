@@ -18,7 +18,6 @@ https://amboss.space/node/023ad453e0ab3767112427b654247bbdd337864532d38967485ab6
 <br>Kucoin [TradingBot]      : http://bit.ly/SignUpKucoin
 <br>Bybit [Grab $600] Leverage Up To 100x : http://bit.ly/SignUpByBit "Use for leverage / spot reliable no overloads"
 <br>Phemex [Grab $100] Leverage Up To 100x: https://bit.ly/SignUpPhemex
-<br>BitMex [10% off] Leverage Up To 100x  : http://bit.ly/BitMexNow
 <br>Deribit [Options] Leverage Up To 100x : http://bit.ly/SignUpDeribit
 <hr>
 <br><b>Passive Income Platforms Crypto In More Out!</b>
