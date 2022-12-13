@@ -15,7 +15,7 @@ https://amboss.space/node/023ad453e0ab3767112427b654247bbdd337864532d38967485ab6
 <br>CoinHako [SG/MY]         : http://bit.ly/CoinHakoSignUp
 <br>Okcoin  [Get $50]        : https://bit.ly/TradeOnOkcoin
 <br>Okex  [10% Rebates]      : https://bit.ly/Okex10Rebate
-<br>Kucoin [TradingBot]      : http://bit.ly/SignUpKucoin
+<br>Kucoin [TradingBot]      : https://bit.ly/TradeWithKuCoin
 <br>Bybit [Grab $600] Leverage Up To 100x : http://bit.ly/SignUpByBit "Use for leverage / spot reliable no overloads"
 <br>Phemex [Grab $100] Leverage Up To 100x: https://bit.ly/SignUpPhemex
 <br>Deribit [Options] Leverage Up To 100x : http://bit.ly/SignUpDeribit
