@@ -52,12 +52,12 @@ https://amboss.space/node/023ad453e0ab3767112427b654247bbdd337864532d38967485ab6
 <br> Tigerbroker [Free SG Region Stocks] : https://bit.ly/TigerBrokerFreeStock
 <br> WeBull [Free SG Region Stocks]      : https://bit.ly/WeBullSingapore
 <hr>
-<br> <b>Share Your Bandwitdh & Generate $ "Totally Free"</b>
+<br> <b>Share Your Bandwitdh & Generate $ Totally Free</b>
 <br>Peer2Profit : https://bit.ly/SignUpPeer2Profit
 <br>IPRoyal Pawns: https://bit.ly/EarnWithIPRoyal
 <br>Earn App : https://bit.ly/SignUpEarnApp
 <br> Honey Gain : https://bit.ly/SignUpHoneygainNow
-<br> PeerProxy : https://bit.ly/PeerProxy
+<br> PeerProxyRack : https://peer.proxyrack.com/ref/v75s4qbkwi335obs5vowzskgtnjdwcmnddebqebc
 <br> BitPing Payout in Crypto : https://bit.ly/SignUpBitPing
 <br> TraffMonetizer : https://bit.ly/SignUpTraffMonetizer
 <br> Packet Stream : https://bit.ly/SignUpPacketStream
