@@ -64,5 +64,5 @@ https://amboss.space/node/023ad453e0ab3767112427b654247bbdd337864532d38967485ab6
 <br> BitPing Payout in Crypto : https://bit.ly/SignUpBitPing (Have yet to hit the cashout requirement)
 <br> TraffMonetizer : https://bit.ly/SignUpTraffMonetizer (Get $5 Upon Sign Up Have yet to hit cashout requirement)
 <br> ✅Packet Stream : https://bit.ly/SignUpPacketStream (Earning is decent for me)
-<br> (NEW) RePocket : https://link.repocket.co/yei9 (Get $5 Upon Signup)
+<br> (NEW) RePocket : https://bit.ly/RePocket (Get $5 Upon Signup)
 <br>✅ = has been paid out successfully via paypal / other methods.
