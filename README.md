@@ -53,11 +53,16 @@ https://amboss.space/node/023ad453e0ab3767112427b654247bbdd337864532d38967485ab6
 <br> WeBull [Free SG Region Stocks]      : https://bit.ly/WeBullSingapore
 <hr>
 <br> <b>Share Your Bandwitdh & Generate $ Totally Free</b>
-<br>Peer2Profit : https://bit.ly/SignUpPeer2Profit
-<br>IPRoyal Pawns: https://bit.ly/EarnWithIPRoyal
-<br>Earn App : https://bit.ly/SignUpEarnApp
-<br> Honey Gain : https://bit.ly/SignUpHoneygainNow
-<br> PeerProxyRack : https://peer.proxyrack.com/ref/v75s4qbkwi335obs5vowzskgtnjdwcmnddebqebc
-<br> BitPing Payout in Crypto : https://bit.ly/SignUpBitPing
-<br> TraffMonetizer : https://bit.ly/SignUpTraffMonetizer
-<br> Packet Stream : https://bit.ly/SignUpPacketStream
+<br> All Installation are very easy via copy & paste.
+<br> Note, sharing your bandwidth is an unusual side gig, but it's passive money, Do your research before installing, would advice using a virtual box / docker to run these app, if you are afraid that the software might be "monitoring" your screen.
+
+<br> ✅Peer2Profit : https://bit.ly/SignUpPeer2Profit (Earning is decent for me)
+<br> ✅IPRoyal Pawns: https://bit.ly/EarnWithIPRoyal (Earning is decent for me)
+<br> ✅Earn App : https://bit.ly/SignUpEarnApp (Earning is decent for me)
+<br> ✅Honey Gain : https://bit.ly/SignUpHoneygainNow (Earning is decent for me)
+<br> ✅PeerProxyRack : https://peer.proxyrack.com/ref/v75s4qbkwi335obs5vowzskgtnjdwcmnddebqebc (Only Windows)
+<br> BitPing Payout in Crypto : https://bit.ly/SignUpBitPing (Have yet to hit the cashout requirement)
+<br> TraffMonetizer : https://bit.ly/SignUpTraffMonetizer (Get $5 Upon Sign Up Have yet to hit cashout requirement)
+<br> ✅Packet Stream : https://bit.ly/SignUpPacketStream (Earning is decent for me)
+<br> (NEW) RePocket : https://link.repocket.co/yei9 (Get $5 Upon Signup)
+<br>✅ = has been paid out successfully via paypal / other methods.
