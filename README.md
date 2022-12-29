@@ -22,8 +22,7 @@ https://amboss.space/node/023ad453e0ab3767112427b654247bbdd337864532d38967485ab6
 <hr>
 <br><b>Passive Income Platforms Crypto In More Out!</b>
 <br>HaruInvest Up to 25% APY   : https://app.haruinvest.com/signup?r=SimplyEverythingCrypto "Using this to generate passive income"
-<br>Midas Investment         : https://bit.ly/MidasInvestment
-<br>Flyn Finance Up To 42.11%APY            : https://bit.ly/FlyntFinance
+<br>Flyn Finance Up To 42.11%APY : https://bit.ly/FlyntFinance
 <br>Nexo $10 To Grab         : https://bit.ly/SignUpNexo
 <hr>
 <br><b>Grab Your Hardware Wallet</b>
