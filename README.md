@@ -13,8 +13,7 @@ https://amboss.space/node/023ad453e0ab3767112427b654247bbdd337864532d38967485ab6
 <br> <b>Direct Fiat In Or Out</b>
 <br>Binance Global[5%Off]    : https://bit.ly/BinanceRebate
 <br>CoinHako [SG/MY]         : http://bit.ly/CoinHakoSignUp
-<br>Okcoin  [Get $50]        : https://bit.ly/TradeOnOkcoin
-<br>Okex  [10% Rebates]      : https://bit.ly/Okex10Rebate
+<br>Okex  [10% Rebates]      : https://bit.ly/SignUpOkx
 <br>Kucoin [TradingBot]      : https://bit.ly/TradeWithKuCoin
 <br>Bybit [Grab $600] Leverage Up To 100x : http://bit.ly/SignUpByBit "Use for leverage / spot reliable no overloads"
 <br>Phemex [Grab $100] Leverage Up To 100x: https://bit.ly/SignUpPhemex
