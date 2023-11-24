@@ -20,8 +20,6 @@ https://amboss.space/node/023ad453e0ab3767112427b654247bbdd337864532d38967485ab6
 <br>Deribit [Options] Leverage Up To 100x : http://bit.ly/SignUpDeribit
 <hr>
 <br><b>Passive Income Platforms Crypto In More Out!</b>
-<br>HaruInvest Up to 25% APY   : https://app.haruinvest.com/signup?r=SimplyEverythingCrypto "Using this to generate passive income"
-<br>Flyn Finance Up To 42.11%APY : https://bit.ly/FlyntFinance
 <br>Nexo $10 To Grab         : https://bit.ly/SignUpNexo
 <hr>
 <br><b>Grab Your Hardware Wallet</b>
@@ -31,7 +29,7 @@ https://amboss.space/node/023ad453e0ab3767112427b654247bbdd337864532d38967485ab6
 <br>KeepKey : https://bit.ly/BuyKeepKeyToday
 <hr>
 <br> <b>Run Your Own Crypto Nodes! Own your data!</b>
-<br>DAppNode Use "SECrypto" For 35EUR Off: https://shop.dappnode.io/ "Running tons of nodes with it"
+<br>DAppNode Use "SECrypto" For 75EUR Off: https://dappnode.com/collections/all "Running tons of nodes with it"
 <br>Avado                                : https://bit.ly/BuyAvado
 <hr>
 <br> <b>Helium Mining</b>
