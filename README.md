@@ -11,12 +11,13 @@ https://amboss.space/node/023ad453e0ab3767112427b654247bbdd337864532d38967485ab6
 <br>
 <br> <b>Exchanges To Trade / Leverage / Options</b>
 <br> <b>Direct Fiat In Or Out</b>
-<br>Binance Global[5%Off]    : https://bit.ly/BinanceRebate
+<br>Coinbase [SG]            : http://bit.ly/SignUpCoinbaseNow
 <br>CoinHako [SG/MY]         : http://bit.ly/CoinHakoSignUp
+<br>Binance Global[5%Off]    : https://bit.ly/BinanceRebate
 <br>Okex  [10% Rebates]      : https://bit.ly/SignUpOkx
 <br>Kucoin [TradingBot]      : https://bit.ly/TradeWithKuCoin
-<br>Bybit [Grab $600] Leverage Up To 100x : http://bit.ly/SignUpByBit "Use for leverage / spot reliable no overloads"
 <br>Phemex [Grab $100] Leverage Up To 100x: https://bit.ly/SignUpPhemex
+<br>Bybit [Grab $600] Leverage Up To 100x : http://bit.ly/SignUpByBit "Use for leverage / spot reliable no overloads"
 <br>Deribit [Options] Leverage Up To 100x : http://bit.ly/SignUpDeribit
 <hr>
 <br><b>Passive Income Platforms Crypto In More Out!</b>
@@ -55,7 +56,7 @@ https://amboss.space/node/023ad453e0ab3767112427b654247bbdd337864532d38967485ab6
 <br> Note, sharing your bandwidth is an unusual side gig, but it's passive money, Do your research before installing, would advice using a virtual box / docker to run these app, if you are afraid that the software might be "monitoring" your screen.
 
 <br> GetGrass : https://bit.ly/GetGrassApp (New Big Thing Chrome Extension only Now.)
-<br> Mysterium Node : https://bit.ly/mystnode (Paid in MYST)
+<br> ✅Mysterium Node : https://bit.ly/mystnode (Paid in MYST)
 <br> ✅IPRoyal Pawns: https://bit.ly/EarnWithIPRoyal (Earning is decent for me)
 <br> ✅Earn App : https://bit.ly/SignUpEarnApp (Earning is decent for me)
 <br> ✅Honey Gain : https://bit.ly/SignUpHoneygainNow (Earning is decent for me)
