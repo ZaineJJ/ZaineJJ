@@ -17,6 +17,7 @@ https://amboss.space/node/023ad453e0ab3767112427b654247bbdd337864532d38967485ab6
 <br>Okex  [10% Rebates]      : https://bit.ly/SignUpOkx
 <br>Kucoin [TradingBot]      : https://bit.ly/TradeWithKuCoin
 <br>Phemex [Grab $100] Leverage Up To 100x: https://bit.ly/SignUpPhemex
+<br>Apex DEX Leverage USDC / USDT : https://bit.ly/Apexexchange
 <br>Bybit [Grab $600] Leverage Up To 100x : http://bit.ly/SignUpByBit "Use for leverage / spot reliable no overloads"
 <br>Deribit [Options] Leverage Up To 100x : http://bit.ly/SignUpDeribit
 <hr>
