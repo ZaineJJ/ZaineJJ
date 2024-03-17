@@ -11,15 +11,15 @@ https://amboss.space/node/023ad453e0ab3767112427b654247bbdd337864532d38967485ab6
 <br>
 <br> <b>Exchanges To Trade / Leverage / Options</b>
 <br> <b>Direct Fiat In Or Out</b>
-<br>Coinbase [SG]            : http://bit.ly/SignUpCoinbaseNow
-<br>CoinHako [SG/MY]         : http://bit.ly/CoinHakoSignUp
-<br>Binance Global[5%Off]    : https://bit.ly/BinanceRebate
-<br>Okex  [10% Rebates]      : https://bit.ly/SignUpOkx
-<br>Kucoin [TradingBot]      : https://bit.ly/TradeWithKuCoin
+<br>Coinbase [SG]                 : http://bit.ly/SignUpCoinbaseNow
+<br>CoinHako [SG/MY]              : http://bit.ly/CoinHakoSignUp
+<br>Deribit [0% Spot Trading Fee / Leverage / Options] : http://bit.ly/SignUpDeribit
 <br>Phemex [Grab $100] Leverage Up To 100x: https://bit.ly/SignUpPhemex
-<br>Apex DEX Leverage USDC / USDT : https://bit.ly/Apexexchange
 <br>Bybit [Grab $600] Leverage Up To 100x : http://bit.ly/SignUpByBit "Use for leverage / spot reliable no overloads"
-<br>Deribit [Options] Leverage Up To 100x : http://bit.ly/SignUpDeribit
+<br>Binance Global [5% Off Spot/ Leverage / Option]        : https://bit.ly/BinanceRebate
+<br>Okex [10% Rebates]            : https://bit.ly/SignUpOkx
+<br>Kucoin [TradingBot]           : https://bit.ly/TradeWithKuCoin
+<br>Apex DEX Leverage USDC / USDT : https://bit.ly/Apexexchange
 <hr>
 <br><b>Passive Income Platforms Crypto In More Out!</b>
 <br>Nexo $10 To Grab         : https://bit.ly/SignUpNexo
