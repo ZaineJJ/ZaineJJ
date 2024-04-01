@@ -11,14 +11,11 @@ https://amboss.space/node/023ad453e0ab3767112427b654247bbdd337864532d38967485ab6
 <br>
 <br> <b>Exchanges To Trade / Leverage / Options</b>
 <br> <b>Direct Fiat In Or Out</b>
-<br>Coinbase [SG]                 : http://bit.ly/SignUpCoinbaseNow
 <br>CoinHako [SG/MY]              : http://bit.ly/CoinHakoSignUp
 <br>Deribit [0% Spot Trading Fee / Leverage / Options] : http://bit.ly/SignUpDeribit
 <br>Phemex [Grab $100] Leverage Up To 100x: https://bit.ly/SignUpPhemex
 <br>Bybit [Grab $600] Leverage Up To 100x : http://bit.ly/SignUpByBit "Use for leverage / spot reliable no overloads"
-<br>Binance Global [5% Off Spot/ Leverage / Option]        : https://bit.ly/BinanceRebate
 <br>Okex [10% Rebates]            : https://bit.ly/SignUpOkx
-<br>Kucoin [TradingBot]           : https://bit.ly/TradeWithKuCoin
 <br>Apex DEX Leverage USDC / USDT : https://bit.ly/Apexexchange
 <hr>
 <br><b>Passive Income Platforms Crypto In More Out!</b>
@@ -26,22 +23,12 @@ https://amboss.space/node/023ad453e0ab3767112427b654247bbdd337864532d38967485ab6
 <hr>
 <br><b>Grab Your Hardware Wallet</b>
 <br>Ledger : https://bit.ly/BuyLedgerToday "Owned all it's model"
-<br>CoolWallet :https://bit.ly/BuyCoolwallet
 <br>Trezor : https://bit.ly/Secure-With-Trezor
-<br>KeepKey : https://bit.ly/BuyKeepKeyToday
 <hr>
 <br> <b>Run Your Own Crypto Nodes! Own your data!</b>
 <br>DAppNode Use "SECrypto" For 75EUR Off: https://dappnode.com/collections/all "Running tons of nodes with it"
 <br>BMO Blockchain Build Your Own CryptoNodes : https://bmoblockchain.us/referral/ (Hardware, Software & Excellent Customer Support) 
 <br>Fill Form Reffered "SECrypto" Get Special Discounts
-<br>Avado                                : https://bit.ly/BuyAvado
-<hr>
-<br> <b>Helium Mining</b>
-<br>Linxdot Use <b>"SECrypto"</b> 3% Off : https://bit.ly/linxdot
-<br>Cotx Use <b>"SECrypto"</b> 3% Off    : https://bit.ly/HeliumCOTX
-<hr>
-<br> <b>Deeper Connect Mining Lifetime VPN</b>
-<br>Deeper Connect Store    : https://bit.ly/BuyDeeperMiner
 <hr>
 <br> <b>Drive & Earn?</b>
 <br>HiveMapper <b>"SECrypto"</b> 10% Off : https://bit.ly/HiveMapper
