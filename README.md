@@ -15,7 +15,6 @@ https://amboss.space/node/023ad453e0ab3767112427b654247bbdd337864532d38967485ab6
 <br>Deribit [0% Spot Trading Fee / Leverage / Options] : http://bit.ly/SignUpDeribit
 <br>Phemex [Grab $100] Leverage Up To 100x: https://bit.ly/SignUpPhemex
 <br>Bybit [Grab $600] Leverage Up To 100x : http://bit.ly/SignUpByBit "Use for leverage / spot reliable no overloads"
-<br>Okex [10% Rebates]            : https://bit.ly/SignUpOkx
 <br>Apex DEX Leverage USDC / USDT : https://bit.ly/Apexexchange
 <hr>
 <br><b>Passive Income Platforms Crypto In More Out!</b>
