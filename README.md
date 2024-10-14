@@ -26,8 +26,8 @@ https://amboss.space/node/023ad453e0ab3767112427b654247bbdd337864532d38967485ab6
 <hr>
 <br> <b>Run Your Own Crypto Nodes! Own your data!</b>
 <br>DAppNode Use "SECrypto" For 75EUR Off: https://dappnode.com/collections/all "Running tons of nodes with it"
-<br>BMO Blockchain Build Your Own CryptoNodes : https://bmoblockchain.us/referral/ (Hardware, Software & Excellent Customer Support) 
-<br>Fill Form Reffered "SECrypto" Get Special Discounts
+<br>Chainsavvy Build Your Own CryptoNodes : https://chainsavvy.io/ (Hardware, Software & Excellent Customer Support) 
+<br>Mention "SECrypto" Get Special Discounts! Ask for your customization!
 <hr>
 <br> <b>Drive & Earn?</b>
 <br>HiveMapper <b>"SECrypto"</b> 10% Off : https://bit.ly/HiveMapper
