@@ -13,7 +13,7 @@ https://amboss.space/node/023ad453e0ab3767112427b654247bbdd337864532d38967485ab6
 <br> <b>Direct Fiat In Or Out</b>
 <br>CoinHako [SG/MY] Easiest         : https://bit.ly/TradeCoinHako
 <br>Coinbase Free $20 Upon Any Trades: https://bit.ly/CoinbaseFree20
-<br>Okx [SG] Get $40 With Single $200 Deposit Within 14 Days Of SignUps : https://bit.ly/SignUpOkxSG
+<br>Okx [SG] Get $10 With Single $200 Deposit Within 14 Days Of SignUp : https://bit.ly/SignUpOkxSG
 <br>Deribit [0% Spot Trading Fee / Leverage / Options] : http://bit.ly/SignUpDeribit
 <br>Phemex [Grab $100] Leverage Up To 100x: https://bit.ly/SignUpPhemex
 <br>Bybit [Grab $600] Leverage Up To 100x : http://bit.ly/SignUpByBit "Use for leverage / spot reliable no overloads"
