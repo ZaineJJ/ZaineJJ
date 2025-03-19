@@ -1,17 +1,13 @@
 <br> 👋 Hi, I’m @ZaineJJ I own a small <a href="http://bit.ly/Simplyeverythingcrypto" target="_blank">youtube channel</a> about cryptocurrency 
 <br> 📫 Join My <a href="https://discord.gg/tuuFQDPcga" target="_blank">Discord</a> / <a href="https://t.me/simplyeverythingNews" target="_blank">Telegram!</a>
-<br> 👍 Follow my Social media | <a href="https://www.twitch.tv/SECrypto" target="_blank">Twitch</a> | <a href="https://twitter.com/zainejj" target="_blank">Twitter</a> | <a href="https://www.facebook.com/SimplyEverythingCrypto" target="_blank">FaceBook</a> 
-<br>
-Connect To My BTC Lightning Node? 
-<br>
-https://amboss.space/node/023ad453e0ab3767112427b654247bbdd337864532d38967485ab622d05f5d26db
+<br> 👍 Follow my Social media <a href="https://www.instagram.com/thesecrypto" target="_blank">Instagram</a> | <a href="https://x.com/TheSECrypto" target="_blank">X</a> | <a href="https://www.facebook.com/SimplyEverythingCrypto" target="_blank">FaceBook</a> 
 <br>
 <h2>Support By Using the links below!</h2>
 <br> <b> Portfolio Tracker : https://bit.ly/SignUpCoinMarketCap </b>
 <br>
 <br> <b>Exchanges To Trade / Leverage / Options</b>
 <br> <b>Direct Fiat In Or Out</b>
-<br>CoinHako [SG/MY] Easiest         : https://bit.ly/TradeCoinHako
+<br>CoinHako Easiest Way To Trade: https://bit.ly/TradeCoinHako
 <br>Coinbase Free $20 Upon Any Trades: https://bit.ly/CoinbaseFree20
 <br>Okx [SG] Get $10 With Single $200 Deposit Within 14 Days Of SignUp : https://bit.ly/SignUpOkxSG
 <br>Deribit [0% Spot Trading Fee / Leverage / Options] : http://bit.ly/SignUpDeribit
