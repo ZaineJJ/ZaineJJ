@@ -8,18 +8,19 @@
 <br> <b>Exchanges To Trade / Leverage / Options</b>
 <br> <b>Direct Fiat In Or Out</b>
 <br>CoinHako Easiest Way To Trade: https://bit.ly/TradeCoinHako
-<br>Coinbase Free $20 Upon Any Trades: https://bit.ly/CoinbaseFree20
-<br>Okx [SG] Get $10 With Single $200 Deposit Within 14 Days Of SignUp : https://bit.ly/SignUpOkxSG
-<br>Deribit [0% Spot Trading Fee / Leverage / Options] : http://bit.ly/SignUpDeribit
-<br>Phemex [Grab $100] Leverage Up To 100x: https://bit.ly/SignUpPhemex
-<br>Bybit [Grab $600] Leverage Up To 100x : http://bit.ly/SignUpByBit "Use for leverage / spot reliable no overloads"
+<br>Coinbase Free $20 Upon Any Trades Within 365 Days Of Sign Up : https://bit.ly/CoinbaseFree20
+<br>Okx [SG] Get $10 With Single $200 Deposit Within 14 Days Of Sign Up : https://bit.ly/SignUpOkxSG
+<br>Phemex [Spot / Leverage] : https://bit.ly/BonusPhemex
+<br>Deribit [Spot / Leverage / Options] : http://bit.ly/SignUpDeribit
+<br>Bybit [Spot / Leverage] : https://bit.ly/TradeOnBybitToday "Use for leverage / spot reliable no overloads" (For SG need VPN)
 <hr>
 <br><b>Passive Income Platforms Crypto In More Out!</b>
 <br>Nexo $10 To Grab         : https://bit.ly/SignUpNexo
 <hr>
 <br><b>Grab Your Hardware Wallet</b>
-<br>Ledger : https://bit.ly/BuyLedgerToday "Owned all it's model"
-<br>Trezor : https://bit.ly/Secure-With-Trezor
+<br>Tangem : https://bit.ly/GetTangem (Enter "NEVAE5" for 10% Off) (Super beginner friendly | No SeedPhrases Needed)
+<br>Ledger : https://shop.ledger.com/?r=0f8c
+<br>Trezor : https://affil.trezor.io/SHlK
 <hr>
 <br> <b>Run Your Own Crypto Nodes! Own your data!</b>
 <br>DAppNode Use "SECrypto" For 75EUR Off: https://dappnode.com/collections/all "Running tons of nodes with it"
