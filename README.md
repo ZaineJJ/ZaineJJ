@@ -15,7 +15,7 @@
 <br>Bybit [Spot / Leverage] : https://bit.ly/TradeOnBybitToday "Use for leverage / spot reliable no overloads" (For SG need VPN)
 <hr>
 <br><b>Passive Income Platforms Crypto In More Out!</b>
-<br>Nexo $10 To Grab         : https://bit.ly/SignUpNexo
+<br>Nexo $10 To Grab         : https://bit.ly/HodlWithNexo
 <hr>
 <br><b>Grab Your Hardware Wallet</b>
 <br>Tangem : https://bit.ly/GetTangem (Enter "NEVAE5" for 10% Off) (Super beginner friendly | No SeedPhrases Needed)
@@ -23,7 +23,7 @@
 <br>Trezor : https://affil.trezor.io/SHlK
 <hr>
 <br> <b>Run Your Own Crypto Nodes! Own your data!</b>
-<br>DAppNode Use "SECrypto" For 75EUR Off: https://dappnode.com/collections/all "Running tons of nodes with it"
+<br>DAppNode Use "SECrypto" For 75EUR Off: [https://dappnode.com/collections/all](https://dappnode.com/collections/frontpage?sca_ref=3402484.IRiw0KUPUj&utm_source=twitter&utm_medium=socialmedia&utm_campaign=affiliate) "Running tons of nodes with it"
 <br>Chainsavvy Build Your Own CryptoNodes : https://chainsavvy.io/ (Hardware, Software & Excellent Customer Support) 
 <br>Mention "SECrypto" Get Special Discounts! Ask for your customization!
 <hr>
